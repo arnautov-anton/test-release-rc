@@ -7,3 +7,4 @@ console.log("BREAKING!");
 console.log("BREAKING AGAIN!");
 
 console.log("Release candidate \\w breaking change...");
+console.log("Release candidate \\w another breaking change...");
