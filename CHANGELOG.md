@@ -1,3 +1,10 @@
+# [6.0.0-rc.2](https://github.com/arnautov-anton/test-release-rc/compare/v6.0.0-rc.1...v6.0.0-rc.2) (2023-10-09)
+
+
+### Features
+
+* what a feature directly on dev ([e148449](https://github.com/arnautov-anton/test-release-rc/commit/e1484494dd0278fec8208c5d7145ab03a2298ca4))
+
 # [6.0.0-rc.1](https://github.com/arnautov-anton/test-release-rc/compare/v5.0.0...v6.0.0-rc.1) (2023-10-09)
 
 
