@@ -13,3 +13,4 @@ console.log("Release candidate \\w yet another breaking change...");
 console.log("Release candidate v5?");
 console.log("Release candidate v5.0.1?");
 console.log("Release candidate v6?");
+console.log("No way a new feature?");
