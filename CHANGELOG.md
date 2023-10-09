@@ -11,6 +11,12 @@
 
 * incoming
 * this thing comes with breaking change
+# [3.1.0](https://github.com/arnautov-anton/test-release-rc/compare/v3.0.0...v3.1.0) (2023-10-09)
+
+
+### Features
+
+* new feature on main ([f6c41b6](https://github.com/arnautov-anton/test-release-rc/commit/f6c41b6773a6159515c0266eb7e1f626ca9cdda4))
 
 # [3.0.0](https://github.com/arnautov-anton/test-release-rc/compare/v2.0.0...v3.0.0) (2023-10-09)
 
