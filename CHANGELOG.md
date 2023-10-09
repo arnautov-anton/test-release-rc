@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/arnautov-anton/test-release-rc/compare/v2.0.0...v3.0.0) (2023-10-09)
+
+
+### Bug Fixes
+
+* **bc:** another breaking change ([13fc912](https://github.com/arnautov-anton/test-release-rc/commit/13fc9125334c47c50c6130e191f7bacebcd9103f))
+
+
+### BREAKING CHANGES
+
+* **bc:** warning, this is a breaking change
+
 # [2.0.0](https://github.com/arnautov-anton/test-release-rc/compare/v1.0.0...v2.0.0) (2023-10-09)
 
 
