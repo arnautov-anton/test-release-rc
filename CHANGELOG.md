@@ -1,3 +1,15 @@
+# [4.0.0-rc.3](https://github.com/arnautov-anton/test-release-rc/compare/v4.0.0-rc.2...v4.0.0-rc.3) (2023-10-09)
+
+
+### Bug Fixes
+
+* yet another breaking change ([9714c1f](https://github.com/arnautov-anton/test-release-rc/commit/9714c1f5ff57c86161d8a27986a4832d0dc06dbd))
+
+
+### BREAKING CHANGES
+
+* watch out, breaking change incoming
+
 # [4.0.0-rc.2](https://github.com/arnautov-anton/test-release-rc/compare/v4.0.0-rc.1...v4.0.0-rc.2) (2023-10-09)
 
 
