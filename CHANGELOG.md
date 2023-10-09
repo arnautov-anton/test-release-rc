@@ -1,3 +1,10 @@
+## [6.0.1](https://github.com/arnautov-anton/test-release-rc/compare/v6.0.0...v6.0.1) (2023-10-09)
+
+
+### Bug Fixes
+
+* to backport to v3 ([b046c09](https://github.com/arnautov-anton/test-release-rc/commit/b046c09d5e8fd3ea969433648863a17b1f71a951))
+
 # [6.0.0](https://github.com/arnautov-anton/test-release-rc/compare/v5.0.0...v6.0.0) (2023-10-09)
 
 
