@@ -10,3 +10,4 @@ console.log("Release candidate \\w breaking change...");
 console.log("Release candidate \\w another breaking change...");
 console.log("JUST-A-FEATURE!");
 console.log("Release candidate \\w yet another breaking change...");
+console.log("Release candidate v5?");
