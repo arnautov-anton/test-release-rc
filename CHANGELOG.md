@@ -1,3 +1,16 @@
+# [5.0.0](https://github.com/arnautov-anton/test-release-rc/compare/v4.0.0...v5.0.0) (2023-10-09)
+
+
+### Bug Fixes
+
+* nothing but a simple fix ([4ac2228](https://github.com/arnautov-anton/test-release-rc/commit/4ac2228a366b968509300440a67cf1a684e2f3d9))
+* release candidate v5 hopefully ([bff6409](https://github.com/arnautov-anton/test-release-rc/commit/bff64095c7d981f51d80a1a9f144dfd99c5943d4))
+
+
+### BREAKING CHANGES
+
+* check docs
+
 # [5.0.0-rc.2](https://github.com/arnautov-anton/test-release-rc/compare/v5.0.0-rc.1...v5.0.0-rc.2) (2023-10-09)
 
 
