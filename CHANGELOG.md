@@ -1,3 +1,10 @@
+# [5.0.0-rc.2](https://github.com/arnautov-anton/test-release-rc/compare/v5.0.0-rc.1...v5.0.0-rc.2) (2023-10-09)
+
+
+### Bug Fixes
+
+* nothing but a simple fix ([4ac2228](https://github.com/arnautov-anton/test-release-rc/commit/4ac2228a366b968509300440a67cf1a684e2f3d9))
+
 # [5.0.0-rc.1](https://github.com/arnautov-anton/test-release-rc/compare/v4.0.0...v5.0.0-rc.1) (2023-10-09)
 
 
