@@ -1,0 +1,16 @@
+{
+	"name": "test-release-rc",
+	"version": "0.0.0-development",
+	"description": "No description",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": [],
+	"author": "",
+	"license": "SEE LICENSE IN LICENSE",
+	"devDependencies": {
+		"@semantic-release/changelog": "^6.0.3",
+		"@semantic-release/git": "^10.0.1",
+		"prettier": "^3.0.3",
+		"semantic-release": "^22.0.5"
+	}
+}
