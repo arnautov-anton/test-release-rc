@@ -1,3 +1,10 @@
+# [4.0.0-rc.2](https://github.com/arnautov-anton/test-release-rc/compare/v4.0.0-rc.1...v4.0.0-rc.2) (2023-10-09)
+
+
+### Features
+
+* new feature on main ([f6c41b6](https://github.com/arnautov-anton/test-release-rc/commit/f6c41b6773a6159515c0266eb7e1f626ca9cdda4))
+
 # [4.0.0-rc.1](https://github.com/arnautov-anton/test-release-rc/compare/v3.0.0...v4.0.0-rc.1) (2023-10-09)
 
 
