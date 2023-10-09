@@ -5,3 +5,5 @@ export const testObject = {
 
 console.log("BREAKING!");
 console.log("BREAKING AGAIN!");
+
+console.log("Release candidate \\w breaking change...");
