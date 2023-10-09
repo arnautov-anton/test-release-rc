@@ -1,3 +1,15 @@
+# [6.0.0-rc.1](https://github.com/arnautov-anton/test-release-rc/compare/v5.0.0...v6.0.0-rc.1) (2023-10-09)
+
+
+### Bug Fixes
+
+* v6 candidate ([bb59bff](https://github.com/arnautov-anton/test-release-rc/commit/bb59bff892266b020c5508cc0523efe94a391e59))
+
+
+### BREAKING CHANGES
+
+* bc v6
+
 # [5.0.0](https://github.com/arnautov-anton/test-release-rc/compare/v4.0.0...v5.0.0) (2023-10-09)
 
 
