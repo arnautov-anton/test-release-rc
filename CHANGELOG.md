@@ -1,3 +1,26 @@
+## [7.2.0](https://github.com/arnautov-anton/test-release-rc/compare/v7.1.0...v7.2.0) (2023-10-26)
+
+
+### Bug Fixes
+
+* test 123 ([a885a44](https://github.com/arnautov-anton/test-release-rc/commit/a885a44198cb87b4d7d6bcb5f9b12435351fdcc0))
+
+
+### Features
+
+* test 123 ([028c054](https://github.com/arnautov-anton/test-release-rc/commit/028c05410783952778aba6fc46a37c509a26326a))
+
+
+### Chores
+
+* **deps:** test 123 ([4a965ae](https://github.com/arnautov-anton/test-release-rc/commit/4a965ae6f71ec5d13e0f8eb57a491cbece9581e1))
+
+
+### Performance Improvements
+
+* test 123 ([bcda130](https://github.com/arnautov-anton/test-release-rc/commit/bcda1300a73c56faac8b6fb15a372d3d5657f31a))
+* test 2 ([6aa7795](https://github.com/arnautov-anton/test-release-rc/commit/6aa7795a696300b4f792838b123cdb4d87342154))
+
 # [7.1.0](https://github.com/arnautov-anton/test-release-rc/compare/v7.0.2...v7.1.0) (2023-10-26)
 
 
