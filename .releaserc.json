@@ -15,7 +15,21 @@
 				]
 			}
 		],
-		"@semantic-release/release-notes-generator",
+		[
+			"@semantic-release/release-notes-generator",
+			{
+				"preset": "conventionalcommits",
+				"presetConfig": {
+					"types": [
+						{
+							"type": "chore",
+							"section": ":repeat: Chore",
+							"hidden": false
+						}
+					]
+				}
+			}
+		],
 		[
 			"@semantic-release/changelog",
 			{
