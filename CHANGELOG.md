@@ -1,3 +1,10 @@
+## [7.0.1](https://github.com/arnautov-anton/test-release-rc/compare/v7.0.0...v7.0.1) (2023-10-26)
+
+
+### Bug Fixes
+
+* whatever patch ([e4e5ee8](https://github.com/arnautov-anton/test-release-rc/commit/e4e5ee8dae89dabc08c7026a35bdf5d7895d5fd8))
+
 # [7.0.0](https://github.com/arnautov-anton/test-release-rc/compare/v6.0.1...v7.0.0) (2023-10-26)
 
 
