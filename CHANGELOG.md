@@ -1,3 +1,15 @@
+# [7.0.0-rc.2](https://github.com/arnautov-anton/test-release-rc/compare/v7.0.0-rc.1...v7.0.0-rc.2) (2023-10-26)
+
+
+### Bug Fixes
+
+* breaking change 2 ([2cf7762](https://github.com/arnautov-anton/test-release-rc/commit/2cf77626511947e420cb27cf7e56924bfbe8537d))
+
+
+### BREAKING CHANGES
+
+* whatever 2
+
 # [7.0.0-rc.1](https://github.com/arnautov-anton/test-release-rc/compare/v6.0.1...v7.0.0-rc.1) (2023-10-26)
 
 
