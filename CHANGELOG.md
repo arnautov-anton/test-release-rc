@@ -1,3 +1,20 @@
+# [7.1.0](https://github.com/arnautov-anton/test-release-rc/compare/v7.0.2...v7.1.0) (2023-10-26)
+
+
+### Bug Fixes
+
+* test 1 ([fd120e6](https://github.com/arnautov-anton/test-release-rc/commit/fd120e6137f023cd9dc66e09a4f782b3df217fe7))
+
+
+### Features
+
+* test 1 ([15ece9c](https://github.com/arnautov-anton/test-release-rc/commit/15ece9ccfa034cc1a75df2224eda27fa8d2362cb))
+
+
+### Performance Improvements
+
+* test ([e2a9e8e](https://github.com/arnautov-anton/test-release-rc/commit/e2a9e8ee648b68c45f60d43aa0ea152149440981))
+
 ## [7.0.2](https://github.com/arnautov-anton/test-release-rc/compare/v7.0.1...v7.0.2) (2023-10-26)
 
 
