@@ -1,3 +1,33 @@
+# [7.0.0](https://github.com/arnautov-anton/test-release-rc/compare/v6.0.1...v7.0.0) (2023-10-26)
+
+
+### Bug Fixes
+
+* breaking change 1 ([a588e0a](https://github.com/arnautov-anton/test-release-rc/commit/a588e0aeb5499db7a8cb18862e71318b2e9ca511))
+* breaking change 2 ([2cf7762](https://github.com/arnautov-anton/test-release-rc/commit/2cf77626511947e420cb27cf7e56924bfbe8537d))
+
+
+### chore
+
+* **release:** 7.0.0-rc.1 [skip ci] ([12c8c92](https://github.com/arnautov-anton/test-release-rc/commit/12c8c929048f5e3f81cf434d273e6ad086ba3051))
+* **release:** 7.0.0-rc.2 [skip ci] ([ad39020](https://github.com/arnautov-anton/test-release-rc/commit/ad39020598fe0a5d1ca241b9dc955a940228747d))
+
+
+### BREAKING CHANGES
+
+* **release:** 2 ([2cf7762](https://github.com/arnautov-anton/test-release-rc/commit/2cf77626511947e420cb27cf7e56924bfbe8537d))
+
+### BREAKING CHANGES
+
+* whatever 2
+* whatever 2
+* **release:** 1 ([a588e0a](https://github.com/arnautov-anton/test-release-rc/commit/a588e0aeb5499db7a8cb18862e71318b2e9ca511))
+
+### BREAKING CHANGES
+
+* whatever
+* whatever
+
 # [7.0.0-rc.2](https://github.com/arnautov-anton/test-release-rc/compare/v7.0.0-rc.1...v7.0.0-rc.2) (2023-10-26)
 
 
