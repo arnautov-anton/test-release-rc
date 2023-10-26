@@ -1,3 +1,10 @@
+## [7.0.2](https://github.com/arnautov-anton/test-release-rc/compare/v7.0.1...v7.0.2) (2023-10-26)
+
+
+### :repeat: Chore
+
+* **deps:** add conventional-changelog-conventionalcommits package ([dd14dea](https://github.com/arnautov-anton/test-release-rc/commit/dd14deaf97d9d7f86375217b21d438c863f6b639))
+
 ## [7.0.1](https://github.com/arnautov-anton/test-release-rc/compare/v7.0.0...v7.0.1) (2023-10-26)
 
 
