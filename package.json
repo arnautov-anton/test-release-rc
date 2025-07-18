@@ -11,6 +11,7 @@
 	"license": "SEE LICENSE IN LICENSE",
 	"packageManager": "pnpm@10.13.1",
 	"devDependencies": {
+		"@changesets/cli": "^2.29.5",
 		"prettier": "^3.6.2"
 	}
 }
