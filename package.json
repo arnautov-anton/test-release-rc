@@ -1,17 +1,16 @@
 {
-	"name": "test-release-rc",
-	"version": "0.0.0-development",
+	"name": "test-changesets",
+	"version": "1.0.0",
 	"description": "No description",
-	"main": "index.js",
 	"scripts": {},
 	"keywords": [],
-	"author": "",
+	"author": {
+		"name": "Anton Arnautov",
+		"email": "arnautov.anton@gmail.com"
+	},
 	"license": "SEE LICENSE IN LICENSE",
+	"packageManager": "pnpm@10.13.1",
 	"devDependencies": {
-		"@semantic-release/changelog": "^6.0.3",
-		"@semantic-release/git": "^10.0.1",
-		"conventional-changelog-conventionalcommits": "^7.0.2",
-		"prettier": "^3.0.3",
-		"semantic-release": "^22.0.5"
+		"prettier": "^3.6.2"
 	}
 }
