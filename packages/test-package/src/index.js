@@ -1,3 +1,7 @@
+import { nanoid } from 'nanoid';
+
+console.log(nanoid(20));
+
 export const testObject = {
 	hello: 1,
 	hi: 2
