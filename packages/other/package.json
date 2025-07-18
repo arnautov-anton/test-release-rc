@@ -1,0 +1,13 @@
+{
+	"name": "other",
+	"version": "0.0.0",
+	"description": "No description",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": [],
+	"author": "",
+	"license": "SEE LICENSE IN LICENSE",
+	"dependencies": {
+		"nanoid": "^5.1.5"
+	}
+}
