@@ -4,7 +4,8 @@ console.log(nanoid(20));
 
 export const testObject = {
 	hello: 1,
-	hi: 2
+	hi: 2,
+	holla: 3,
 };
 
 console.log("BREAKING!");
