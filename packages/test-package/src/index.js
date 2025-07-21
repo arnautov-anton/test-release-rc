@@ -7,6 +7,7 @@ export const testObject = {
 	hi: 2,
 	holla: 3,
 	mahalo: 4,
+	ayay: 5,
 };
 
 console.log("BREAKING!");
