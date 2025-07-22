@@ -3,7 +3,9 @@
 	"version": "7.4.2",
 	"description": "No description",
 	"main": "index.js",
-	"scripts": {},
+	"scripts": {
+		"prepare": "echo $npm_package_version"
+	},
 	"keywords": [],
 	"author": "",
 	"license": "SEE LICENSE IN LICENSE",
