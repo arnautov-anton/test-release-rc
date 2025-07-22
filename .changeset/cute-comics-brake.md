@@ -1,0 +1,5 @@
+---
+"@ddd/other": minor
+---
+
+asdasd
