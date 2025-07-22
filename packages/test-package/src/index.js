@@ -24,3 +24,4 @@ console.log("No way a new feature?");
 console.log("LOOKIT v3 fix!");
 console.log("LOOKIT v5 fix!");
 console.log("LOOKIT v7 fix!");
+console.log("LOOKIT v7.7 fix!");
