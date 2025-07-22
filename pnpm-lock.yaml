@@ -20,6 +20,9 @@ importers:
       nanoid:
         specifier: ^5.1.5
         version: 5.1.5
+      test-release:
+        specifier: workspace:^
+        version: link:../test-package
 
   packages/test-package:
     dependencies:
