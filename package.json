@@ -2,7 +2,9 @@
 	"name": "test-changesets",
 	"version": "1.0.0",
 	"description": "No description",
-	"scripts": {},
+	"scripts": {
+    "ci:publish": "echo 'CI publish script executed'"
+  },
 	"keywords": [],
 	"author": {
 		"name": "Anton Arnautov",
