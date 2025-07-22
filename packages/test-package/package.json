@@ -1,6 +1,6 @@
 {
 	"name": "@ddd/test-release",
-	"version": "7.4.2",
+	"version": "7.5.0",
 	"description": "No description",
 	"main": "index.js",
 	"scripts": {
