@@ -4,7 +4,7 @@
 	"description": "No description",
 	"main": "index.js",
 	"scripts": {
-		"prepare": "echo $npm_package_version"
+		"prepare": "echo $npm_package_version > VERSION"
 	},
 	"keywords": [],
 	"author": "",
@@ -14,5 +14,8 @@
 	},
 	"publishConfig": {
 		"registry": "http://localhost:4873"
-	}
+	},
+	"files": [
+		"VERSION"
+	]
 }
