@@ -1,10 +1,10 @@
 {
-	"name": "test-changesets",
-	"version": "1.0.0",
+	"name": "@ddd/test-changesets",
+	"private": true,
 	"description": "No description",
 	"scripts": {
-    "ci:publish": "echo 'CI publish script executed'"
-  },
+		"ci:publish": "changeset publish --access public"
+	},
 	"keywords": [],
 	"author": {
 		"name": "Anton Arnautov",

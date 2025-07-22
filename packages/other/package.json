@@ -1,14 +1,18 @@
 {
-	"name": "other",
+	"name": "@ddd/other",
 	"version": "1.0.1",
 	"description": "No description",
 	"main": "index.js",
-	"scripts": {},
+	"scripts": {
+	},
 	"keywords": [],
 	"author": "",
 	"license": "SEE LICENSE IN LICENSE",
 	"dependencies": {
 		"nanoid": "^5.1.5",
 		"test-release": "workspace:^"
+	},
+	"publishConfig": {
+    "registry": "http://localhost:4873"
 	}
 }

@@ -1,13 +1,17 @@
 {
-	"name": "test-release",
+	"name": "@ddd/test-release",
 	"version": "7.4.1",
 	"description": "No description",
 	"main": "index.js",
-	"scripts": {},
+	"scripts": {
+	},
 	"keywords": [],
 	"author": "",
 	"license": "SEE LICENSE IN LICENSE",
 	"dependencies": {
 		"nanoid": "^5.1.5"
+	},
+	"publishConfig": {
+    "registry": "http://localhost:4873"
 	}
 }
