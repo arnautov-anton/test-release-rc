@@ -22,3 +22,4 @@ console.log("Release candidate v5.0.1?");
 console.log("Release candidate v6?");
 console.log("No way a new feature?");
 console.log("LOOKIT v3 fix!");
+console.log("LOOKIT v5 fix!");
