@@ -9,6 +9,8 @@ jobs:
   version:
     timeout-minutes: 15
     runs-on: ubuntu-latest
+    outputs:
+      changesets: ${{ steps.changesets.outputs.publishedPackages }}
     steps:
       - name: Checkout Code Repository
         uses: actions/checkout@v4
@@ -26,6 +28,7 @@ jobs:
         run: pnpm install
 
       - name: Create and Publish Versions
+        id: changesets
         uses: changesets/action@v1
         with:
           commit: "chore: update versions"
@@ -34,3 +37,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+  sync-gh-releases:
+    runs-on: ubuntu-latest
+    needs: version
+    steps:
+      - name: Checkout Code Repository
+        uses: actions/checkout@v4
+      - name: Read from CHANGELOG
+        uses: actions/github-script@v7
+        env:
+          CHANGESETS: ${{ needs.version.outputs.changesets }}
+        with:
+          script: |
+            const title = process.env.CHANGESETS;
+            console.error(title ?? 'N/A', typeof title);
+
