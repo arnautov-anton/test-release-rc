@@ -1,5 +1,17 @@
 ## [7.2.0](https://github.com/arnautov-anton/test-release-rc/compare/v7.1.0...v7.2.0) (2023-10-26)
 
+## 7.4.0
+
+### Minor Changes
+
+- 4565ae2: Fix this and feat this
+- c1ad922: Add another greeting
+
+### Patch Changes
+
+- 4c53b13: Add another greeting
+- ac3916b: feat: Add another greeting
+
 ## 7.3.0
 
 ### Minor Changes

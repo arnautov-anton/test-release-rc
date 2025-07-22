@@ -1,5 +1,11 @@
 ## [7.2.0](https://github.com/arnautov-anton/test-release-rc/compare/v7.1.0...v7.2.0) (2023-10-26)
 
+## 1.0.1
+
+### Patch Changes
+
+- 4565ae2: Fix this and feat this
+
 ## 1.0.0
 
 ### Major Changes
