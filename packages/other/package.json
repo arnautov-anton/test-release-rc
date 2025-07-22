@@ -9,7 +9,7 @@
 	"license": "SEE LICENSE IN LICENSE",
 	"dependencies": {
 		"nanoid": "^5.1.5",
-		"@ddd/test-release": "workspace:^"
+		"@ddd/test-release": "workspace:~"
 	},
 	"publishConfig": {
 		"registry": "http://localhost:4873"
